@@ -1,3 +1,5 @@
+💬 Built this chat app with some help from a great tutorial. You can find it here: [Tutorial Link](https://www.youtube.com/watch?v=ZwFA3YMfkoc&list=LL&index=2).
+
 # Realtime Chat Application
 Created with React, Express, Node and Socket.IO
 
